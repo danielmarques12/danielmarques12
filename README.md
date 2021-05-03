@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>
+  <img alt="Mesavip" title="Mesavip" src=".github/logo.png" width="300px" />
+</h1>
 
-<!--
-**danielmarques12/danielmarques12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋,
+I'm Daniel Marques, a starting web developer.
 
-Here are some ideas to get you started:
+Take a look at Mesavip - My Personal Portfolio Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[The Website](http://mesavip.gq)
+###### It may take a few seconds to load, due to the free hosting.
+ 
+[React Front-end Repo](https://github.com/danielmarques12/mesavip-web)
+[Node API Repo](https://github.com/danielmarques12/mesavip-api)
+
+###### Personal project for studying and portfolio purposes.
