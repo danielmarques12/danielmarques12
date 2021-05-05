@@ -7,8 +7,8 @@ I'm Daniel Marques, a starting web developer.
 
 Take a look at Mesavip - My Personal Portfolio Project
 
-[The Website](http://mesavip.gq)
-###### It may take a few seconds to load, due to the free hosting.
+[The Website](https://mesavip-web.herokuapp.com/)
+###### It may take a few seconds to load, due to the free hosting (Sleeping Heroku dynos 😴).
  
 [React Front-end Repo](https://github.com/danielmarques12/mesavip-web)
 
