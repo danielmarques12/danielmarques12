@@ -12,6 +12,6 @@ Take a look at Mesavip - My Personal Portfolio Project
  
 [React Front-end Repo](https://github.com/danielmarques12/mesavip-web)
 
-[Node API Repo](https://github.com/danielmarques12/mesavip-api)
+[Node Typescript API Repo](https://github.com/danielmarques12/mesavip-api)
 
 ###### Personal project for studying and portfolio purposes.
