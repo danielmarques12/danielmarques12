@@ -5,6 +5,8 @@
 ### Hi there 👋,
 I'm Daniel Marques, a starting web developer.
 
+[My Linkedin](https://www.linkedin.com/in/daniel-marques-p/)
+
 Take a look at Mesavip - My Personal Portfolio Project
 
 [The Website](https://mesavip-web.herokuapp.com/)
