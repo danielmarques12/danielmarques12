@@ -9,7 +9,7 @@ I'm Daniel Marques, a starting web developer.
 
 Take a look at Mesavip - My Personal Portfolio Project
 
-[The Website](https://mesavip-web.herokuapp.com/)
+[The Website](https://mesavip.netlify.app/)
 ###### It may take a few seconds to load, due to the free hosting (Sleeping Heroku dynos 😴).
  
 [React Front-end Repo](https://github.com/danielmarques12/mesavip-web)
