@@ -6,7 +6,6 @@
   Hi, I'm Daniel Marques, a Full stack web developer.
 </h3>
 
-
 <p align="center">
  
   <a href="https://www.linkedin.com/in/daniel-marques-p" target="_blank">
@@ -19,7 +18,7 @@
  
 </p>
 
-<p align="center"> Take a look at MESAVIP - <strong> A restaurant reservation platform </strong> - My Personal Portfolio Project (Links below) </p>
+<h4 align="center"> Take a look at MESAVIP - <strong> A restaurant reservation platform </strong> - My Personal Portfolio Project (Links below) </h4>
  
  <p align="center">
  
