@@ -2,9 +2,9 @@
  WELCOME
 </h1>
 
-<p align="center">
+<h3 align="center">
   Hi, I'm Daniel Marques, a Full stack web developer.
-</p>
+</h3>
 
 
 <p align="center">
