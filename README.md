@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Hi, I'm Daniel Marques, a Full stack web developer.
+  I'm Daniel Marques, a Full stack web developer.
 </h3>
 
 <p align="center">
