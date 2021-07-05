@@ -45,5 +45,9 @@
   <a href="https://raw.githubusercontent.com/danielmarques12/mesavip-api-tsc/main/.github/database.png" target="_blank">
     <img src="https://img.shields.io/badge/database model-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=473B4A">
   </a>
+ 
+ <a href="https://www.notion.so/Queries-0697a2735333468a85ab69a96ec10a90" target="_blank">
+    <img src="https://img.shields.io/badge/database main queries-316192?style=for-the-badge&logo=notion&logoColor=white&color=473B4A">
+  </a>
   
 </p>
