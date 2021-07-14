@@ -51,3 +51,16 @@
   </a>
   
 </p>
+
+<div align="center">
+ <h4> Some features, tecnologies and services that are being used in the project: </h4>
+ 
+  • Tests (Jest) 
+  • Mobile responsive
+  • Dark Mode
+  • Styled components
+  • Cloudinary (image hosting)
+  • JWT Authentication
+  • Knex
+  
+</div>
