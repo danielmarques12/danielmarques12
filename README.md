@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/mesavip website-473B4A?style=for-the-badge&logo=netlify">
   </a>
   
-  <a href="https://github.com/danielmarques12/mesavip-web" target="_blank">
+  <a href="https://github.com/danielmarques12/mesavip-web-tsc" target="_blank">
     <img src="https://img.shields.io/badge/react frontend-473B4A?style=for-the-badge&logo=react">
   </a>
   
