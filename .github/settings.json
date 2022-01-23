@@ -1,0 +1,100 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.startupEditor": "none",
+  "workbench.colorCustomizations": {
+    "statusBar.debuggingBackground": "#ff000000"
+  },
+
+  "extensions.ignoreRecommendations": true,
+  "window.menuBarVisibility": "toggle",
+
+  "editor.fontFamily": "Monolisa",
+  "editor.formatOnSave": true,
+  "editor.fontWeight": "300",
+  "editor.fontSize": 18.5,
+  "editor.lineHeight": 30,
+  "editor.fontLigatures": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.cursorBlinking": "expand",
+  "editor.parameterHints.enabled": false,
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [80, 140],
+
+  "terminal.integrated.fontFamily": "Monolisa",
+  "terminal.integrated.fontWeightBold": "600",
+  "terminal.integrated.fontSize": 20,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  "emmet.excludeLanguages": [
+    "typescript"
+  ],
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "typescript": "tsx"
+  },
+
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "javascript.suggest.autoImports": true,
+
+  "git.enableSmartCommit": true,
+  "explorer.confirmDragAndDrop": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  "background.customImages": [
+    "/home/daniel/Pictures/vscode-wallpapers/aot.png",
+    "/home/daniel/Pictures/vscode-wallpapers/dr-stone.png"
+  ],
+  "background.enabled": true,
+  "background.loop": true,
+  "background.useDefault": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "max-width": "900px",
+    "width": "100%",
+    "height": "100%",
+    "background-position": "center",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.09
+  },
+
+  "git.decorations.enabled": false,
+  "git.ignoreMissingGitWarning": true,
+
+  "material-icon-theme.folders.color": "#0288d1",
+  "material-icon-theme.folders.associations": {
+    "resolvers": "Jinja",
+    "components": "React-components",
+    "modules": "components",
+    "models": "flow",
+    "migrations": "delta",
+    "chakra": "cobol",
+    "http": "routes",
+    "reducers": "redux-actions"
+  },
+
+  "[prisma]": {
+    // "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "svelte.enable-ts-plugin": true,
+  "window.zoomLevel": 1
+}
