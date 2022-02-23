@@ -44,6 +44,7 @@
   • Chakra-UI
   • SSR/SSG/ISR
   • Responsive
+  • React-Query
   • Postgres
   • Cloudinary (image hosting)
   • JWT Authentication
