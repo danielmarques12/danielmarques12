@@ -23,7 +23,7 @@
 <p align="center">
  
   <a href="https://mesavip-web.vercel.app" target="_blank" style="text-decoration:none" color="red">
-    <img src="https://img.shields.io/badge/mesavip website-473B4A?style=for-the-badge&logo=netlify">
+    <img src="https://img.shields.io/badge/mesavip website-473B4A?style=for-the-badge&logo=vercel">
   </a>
   
   <a href="https://github.com/danielmarques12/mesavip-web-tsc-next" target="_blank">
