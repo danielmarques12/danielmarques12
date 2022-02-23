@@ -27,11 +27,11 @@
   </a>
   
   <a href="https://github.com/danielmarques12/mesavip-web-tsc-next" target="_blank">
-    <img src="https://img.shields.io/badge/react frontend-473B4A?style=for-the-badge&logo=react">
+    <img src="https://img.shields.io/badge/react frontend REPO-473B4A?style=for-the-badge&logo=react">
   </a>
   
   <a href="https://github.com/danielmarques12/mesavip-api-tsc" target="_blank">
-    <img src="https://img.shields.io/badge/node typescript api-473B4A?style=for-the-badge&logo=typescript">
+    <img src="https://img.shields.io/badge/node typescript api REPO-473B4A?style=for-the-badge&logo=typescript">
   </a>
   
 </p>
