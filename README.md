@@ -1,16 +1,22 @@
 <h1 align="center">
- Welcome
+ Hi😁, welcome to my profile!
 </h1>
 
 <h3 align="center">
-  I'm Daniel Marques, a Full stack web developer.
+  I'm Daniel Marques, a Web Developer.
 </h3>
+
+<h4 align="center"> You can reach me at: </h4>
 
 <p align="center">
  
   <a href="https://www.linkedin.com/in/daniel-marques-p" target="_blank">
-    <img src="https://img.shields.io/badge/My LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+ 
+ <a href="https://twitter.com/danielmdev" target="_blank">
+    <img src="https://img.shields.io/badge/danielmdev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
  
   <a href="mailto:daniel.brz2009@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/daniel.brz2009@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -18,7 +24,7 @@
  
 </p>
 
-<h4 align="center"> Take a look at MESAVIP - <strong> A restaurant reservation platform </strong> - My Personal Portfolio Project (Links below) </h4>
+<h4 align="center"> Take a look at Mesavip - <strong> A restaurant reservation platform </strong> - My Portfolio Project </h4>
  
 <p align="center">
  
@@ -37,7 +43,7 @@
 </p>
 
 <div align="center">
- <h4> Some features, tecnologies and services that are being used in the project: </h4>
+ <h4> Some of the features and tecnologies present in Mesavip: </h4>
  
   • NextJS
   • Typescript
@@ -46,11 +52,8 @@
   • Responsive
   • React-Query
   • Postgres
-  • Cloudinary (image hosting)
-  • JWT Authentication
   • Knex
   • JEST
   • Hosting on Heroku and Vercel
- 
   
 </div>
