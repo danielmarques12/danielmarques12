@@ -28,7 +28,7 @@
  
 <p align="center">
  
-  <a href="https://mesavip-web.vercel.app" target="_blank" style="text-decoration:none" color="red">
+  <a href="https://mesavip.vercel.app" target="_blank" style="text-decoration:none" color="red">
     <img src="https://img.shields.io/badge/mesavip website-473B4A?style=for-the-badge&logo=vercel">
   </a>
   
@@ -45,15 +45,19 @@
 <div align="center">
  <h4> Some of the features and tecnologies present in Mesavip: </h4>
  
-  • NextJS
-  • Typescript
-  • Chakra-UI
+  • React.js
+  • Typescrip
+  • Next.js
+  • Jest
+  • Testing Library
+  • Responsiveness
   • SSR/SSG/ISR
-  • Responsive
   • React-Query
+  • Node.js
+  • SQL
   • Postgres
-  • Knex
-  • JEST
+  • Knex.js
   • Hosting on Heroku and Vercel
-  
+  • Chakra-UI
+ 
 </div>
