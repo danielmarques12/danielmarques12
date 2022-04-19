@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  I'm Daniel Marques, a Web Developer.
+  I'm Daniel Marques, a Software Developer.
 </h3>
 
 <h4 align="center"> You can reach me at: </h4>
