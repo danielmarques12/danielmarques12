@@ -43,7 +43,7 @@
 </p>
 
 <div align="center">
- <h4> Some of the features and tecnologies currently present in Mesavip: </h4>
+ <h4> Some of the features and technologies currently present in Mesavip: </h4>
  
   • React.js
   • Typescript
