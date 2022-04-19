@@ -24,7 +24,7 @@
  
 </p>
 
-<h4 align="center"> <strong> Check out My Best Portfolio Project </strong> - MESAVIP - A restaurant reservation platform </h4>
+<h4 align="center"> <strong> Check out My Best Portfolio Project </strong> - MESAVIP - A restaurant reservation platform: </h4>
  
 <p align="center">
  
