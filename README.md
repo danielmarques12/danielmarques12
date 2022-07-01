@@ -1,10 +1,10 @@
-<h1 align="center">
+<h2 align="center">
  Hi😁, welcome to my profile!
-</h1>
+</h2>
 
-<h3 align="center">
+<p>
   I'm Daniel, a SWE focused on delivering high quality software solutions. I've worked with, but not limited to, React web apps and Node.js APIs (REST and GraphQL).
-</h3>
+</p>
 
 <h4 align="center"> You can reach me at: </h4>
 
