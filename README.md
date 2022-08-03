@@ -1,9 +1,9 @@
 <h2 align="center">
- Hi😁, welcome to my profile!
+ Welcome to my profile!
 </h2>
 
 <p>
-  I'm Daniel, a SWE focused on delivering high quality software solutions. I've worked with, but not limited to, React web apps and Node.js APIs (REST and GraphQL).
+  Hi😁, I'm Daniel, a software engineer focused on delivering high quality software solutions. My software development background includes, but is not limited to, React web apps (Next.js, Typescript) and Node.js APIs (REST and GraphQL).
 </p>
 
 <h4 align="center"> You can reach me at: </h4>
