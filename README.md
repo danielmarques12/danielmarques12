@@ -1,9 +1,8 @@
-<h4>
- Hi there 😁, I'm Daniel
-</h4>
+# Daniel Marques
 
-<p>
-  I'm a Full-Stack Software Engineer focused on delivering high quality software solutions. My software development background includes, but is not limited to, React web apps (Next.js, Typescript) and Node.js APIs (REST and GraphQL).
-</p>
+Software Engineer [@The RealReal](https://www.therealreal.com). Working with Elixir, Ruby and Typescript.
+
+Twitter: [@danielmdev](https://twitter.com/danielmdev)  
+Linkedin: [@danielmarquesdev](https://www.linkedin.com/in/danielmarquesdev)
 
 Wanna chat? [cal.com/danielmarques](https://cal.com/danielmarques)
