@@ -2,6 +2,8 @@
 
 Software Engineer [@The RealReal](https://www.therealreal.com). Working with Elixir, Ruby and Typescript.
 
+Currently building [Toki](tokitoki.app) - A Free and Open-Source Pomodoro Timer App
+
 Twitter: [@danielmdev](https://twitter.com/danielmdev)  
 Linkedin: [@danielmarquesdev](https://www.linkedin.com/in/danielmarquesdev)  
 Email: me@danielmarques.dev
