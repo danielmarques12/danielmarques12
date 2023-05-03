@@ -1,8 +1,10 @@
-# Daniel Marques
+## Hello there! 😁
 
-Software Engineer [@The RealReal](https://www.therealreal.com). Working with Elixir, Ruby and Typescript.
+I'm Daniel, a Fullstack Software Engineer.
 
-Currently building [Toki](https://tokitoki.app) - A Free and Open Source Pomodoro Timer App
+- Working at [@The RealReal](https://www.therealreal.com), building stuff with Elixir, Ruby and Typescript.
+- Currently building [Toki](https://tokitoki.app) - A Free and Open Source Pomodoro Timer App
+- Techs that I really enjoy working with: Typescript, React, NextJS, Tailwind, PostgreSQL
+- Recently, I have been captivated by the world of UI/UX design and have been delving deeper into the subject.
 
-Email: me@danielmarques.dev  
 Wanna chat? [cal.com/danielmarques](https://cal.com/danielmarques)
