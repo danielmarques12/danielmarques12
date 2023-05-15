@@ -6,6 +6,6 @@ I'm Daniel, a Fullstack Software Engineer.
 - Building [Toki](https://tokitoki.app) - A Free and Open Source Pomodoro Timer App
 - Techs that I really enjoy working with: Typescript, React, Next.js, Tailwind, PostgreSQL, tRPC
 - Recently, I have been captivated by the world of UI/UX design and have been delving deeper into the subject
-- Learning [Astro](https://astro.build)
+- Learning [Astro](https://astro.build) and building [my personal website](https://github.com/danielmarques12/danielmarques.dev/tree/scaffold) with it
 
 Wanna chat? [cal.com/danielmarques](https://cal.com/danielmarques)
