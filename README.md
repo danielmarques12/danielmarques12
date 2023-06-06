@@ -7,4 +7,4 @@ I'm Daniel, a Fullstack Software Engineer.
 - Techs that I really enjoy working with: Typescript, React, Next.js, Tailwind, PostgreSQL, tRPC
 - Recently, I have been captivated by the world of UI/UX design and have been delving deeper into the subject
 
-Let's chat: [cal.com/danielmarques](https://cal.com/danielmarques)
+Let's chat. Book a call: [cal.com/danielmarques](https://cal.com/danielmarques)
